@@ -1,4 +1,4 @@
-# Catherine AM  
+
 ## _Aspiring Developer | Code Explorer | Creativity Meets Technology_
 
 Hi! I’m **Catherine AM**, a passionate student diving deep into the world of multiplatform app development. Based near the beautiful city of Valencia, Spain, I’m on a journey to learn, create, and grow as a developer.
